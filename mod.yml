@@ -1,0 +1,1026 @@
+title: Elora's Heartless Colors PC
+originalAuthor: ColossusSteppes
+description: Mixes Vanilla and FM Heartless Colors. Uses TieuLink's HD Vanilla Heartless mod as a base.
+game: kh2
+dependencies: 
+assets:
+- name: remastered\menu\jmface_heart1.imd\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart1.imd\-0.dds
+- name: remastered\menu\jmface_heart10.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart10.imd\-0.DDS
+- name: remastered\menu\jmface_heart12.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart12.imd\-0.DDS
+- name: remastered\menu\jmface_heart13.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart13.imd\-0.DDS
+- name: remastered\menu\jmface_heart14.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart14.imd\-0.DDS
+- name: remastered\menu\jmface_heart15.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart15.imd\-0.DDS
+- name: remastered\menu\jmface_heart17.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart17.imd\-0.DDS
+- name: remastered\menu\jmface_heart2.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart2.imd\-0.DDS
+- name: remastered\menu\jmface_heart22.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart22.imd\-0.DDS
+- name: remastered\menu\jmface_heart23.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart23.imd\-0.DDS
+- name: remastered\menu\jmface_heart29.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart29.imd\-0.DDS
+- name: remastered\menu\jmface_heart31.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart31.imd\-0.DDS
+- name: remastered\menu\jmface_heart37.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart37.imd\-0.DDS
+- name: remastered\menu\jmface_heart38.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart38.imd\-0.DDS
+- name: remastered\menu\jmface_heart39.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart39.imd\-0.DDS
+- name: remastered\menu\jmface_heart40.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart40.imd\-0.DDS
+- name: remastered\menu\jmface_heart41.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart41.imd\-0.DDS
+- name: remastered\menu\jmface_heart42.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart42.imd\-0.DDS
+- name: remastered\menu\jmface_heart48.imd\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart48.imd\-0.dds
+- name: remastered\menu\jmface_heart6.imd\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart6.imd\-0.dds
+- name: remastered\menu\jmface_heart60.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart60.imd\-0.DDS
+- name: remastered\menu\jmface_heart65.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart65.imd\-0.DDS
+- name: remastered\menu\jmface_heart67.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart67.imd\-0.DDS
+- name: remastered\menu\jmface_heart7.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart7.imd\-0.DDS
+- name: remastered\menu\jmface_heart8.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart8.imd\-0.DDS
+- name: remastered\menu\jmface_heart9.imd\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\menu\jmface_heart9.imd\-0.DDS
+- name: remastered\obj\B_BB100.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100.mdlx\-0.DDS
+- name: remastered\obj\B_BB100.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100.mdlx\-1.DDS
+- name: remastered\obj\B_BB100.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100.mdlx\-2.DDS
+- name: remastered\obj\B_BB100.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100.mdlx\-3.DDS
+- name: remastered\obj\B_BB100_GM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_GM.mdlx\-0.DDS
+- name: remastered\obj\B_BB100_GM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_GM.mdlx\-1.DDS
+- name: remastered\obj\B_BB100_GM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_GM.mdlx\-2.DDS
+- name: remastered\obj\B_BB100_TSURU.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_TSURU.mdlx\-0.DDS
+- name: remastered\obj\B_BB100_TSURU.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_TSURU.mdlx\-1.DDS
+- name: remastered\obj\B_BB100_TSURU.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_TSURU.mdlx\-2.DDS
+- name: remastered\obj\B_BB100_TSURU.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_BB100_TSURU.mdlx\-3.DDS
+- name: remastered\obj\B_CA000.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA000.mdlx\-0.DDS
+- name: remastered\obj\B_CA000.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA000.mdlx\-1.DDS
+- name: remastered\obj\B_CA050.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-0.DDS
+- name: remastered\obj\B_CA050.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-1.DDS
+- name: remastered\obj\B_CA050.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-2.DDS
+- name: remastered\obj\B_CA050.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-3.DDS
+- name: remastered\obj\B_CA050.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-4.DDS
+- name: remastered\obj\B_CA050.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-5.DDS
+- name: remastered\obj\B_CA050.mdlx\-6.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-6.DDS
+- name: remastered\obj\B_CA050.mdlx\-7.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-7.DDS
+- name: remastered\obj\B_CA050.mdlx\-8.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050.mdlx\-8.DDS
+- name: remastered\obj\B_CA050_GM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050_GM.mdlx\-0.DDS
+- name: remastered\obj\B_CA050_GM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050_GM.mdlx\-1.DDS
+- name: remastered\obj\B_CA050_GM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050_GM.mdlx\-2.DDS
+- name: remastered\obj\B_CA050_GM.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_CA050_GM.mdlx\-3.DDS
+- name: remastered\obj\B_NM100.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-0.DDS
+- name: remastered\obj\B_NM100.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-1.DDS
+- name: remastered\obj\B_NM100.mdlx\-10.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-10.DDS
+- name: remastered\obj\B_NM100.mdlx\-11.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-11.DDS
+- name: remastered\obj\B_NM100.mdlx\-12.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-12.DDS
+- name: remastered\obj\B_NM100.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-2.DDS
+- name: remastered\obj\B_NM100.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-3.DDS
+- name: remastered\obj\B_NM100.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-4.DDS
+- name: remastered\obj\B_NM100.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-5.DDS
+- name: remastered\obj\B_NM100.mdlx\-6.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-6.DDS
+- name: remastered\obj\B_NM100.mdlx\-7.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-7.DDS
+- name: remastered\obj\B_NM100.mdlx\-8.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-8.DDS
+- name: remastered\obj\B_NM100.mdlx\-9.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100.mdlx\-9.DDS
+- name: remastered\obj\B_NM100_GM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100_GM.mdlx\-0.DDS
+- name: remastered\obj\B_NM100_GM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100_GM.mdlx\-1.DDS
+- name: remastered\obj\B_NM100_GM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100_GM.mdlx\-2.DDS
+- name: remastered\obj\B_NM100_GM.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100_GM.mdlx\-3.DDS
+- name: remastered\obj\B_NM100_GM.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_NM100_GM.mdlx\-4.DDS
+- name: remastered\obj\M_EX010.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010.mdlx\-0.DDS
+- name: remastered\obj\M_EX010.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010.mdlx\-1.DDS
+- name: remastered\obj\M_EX010.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010.mdlx\-2.DDS
+- name: remastered\obj\M_EX010.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010.mdlx\-3.DDS
+- name: remastered\obj\M_EX010_NM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010_NM.mdlx\-0.DDS
+- name: remastered\obj\M_EX010_NM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010_NM.mdlx\-1.DDS
+- name: remastered\obj\M_EX010_NM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010_NM.mdlx\-2.DDS
+- name: remastered\obj\M_EX010_NM.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX010_NM.mdlx\-3.DDS
+- name: remastered\obj\M_EX050.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX050.mdlx\-0.DDS
+- name: remastered\obj\M_EX050.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX050.mdlx\-1.DDS
+- name: remastered\obj\M_EX050.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX050.mdlx\-2.DDS
+- name: remastered\obj\M_EX060.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX060.mdlx\-0.DDS
+- name: remastered\obj\M_EX060.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX060.mdlx\-1.DDS
+- name: remastered\obj\M_EX200.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX200.mdlx\-0.DDS
+- name: remastered\obj\M_EX200.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX200.mdlx\-1.DDS
+- name: remastered\obj\M_EX210.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX210.mdlx\-0.dds
+- name: remastered\obj\M_EX210.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX210.mdlx\-1.dds
+- name: remastered\obj\M_EX210.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX210.mdlx\-2.dds
+- name: remastered\obj\M_EX210.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX210.mdlx\-3.dds
+- name: remastered\obj\M_EX500.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-0.DDS
+- name: remastered\obj\M_EX500.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-1.DDS
+- name: remastered\obj\M_EX500.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-2.DDS
+- name: remastered\obj\M_EX500.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-3.DDS
+- name: remastered\obj\M_EX500.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-4.DDS
+- name: remastered\obj\M_EX500.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500.mdlx\-5.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-0.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-1.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-2.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-3.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-4.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-5.DDS
+- name: remastered\obj\M_EX500_GM.mdlx\-6.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_GM.mdlx\-6.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-0.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-1.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-2.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-3.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-4.DDS
+- name: remastered\obj\M_EX500_NM.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX500_NM.mdlx\-5.DDS
+- name: remastered\obj\M_EX510.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX510.mdlx\-0.DDS
+- name: remastered\obj\M_EX520.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX520.mdlx\-0.DDS
+- name: remastered\obj\M_EX520_AL.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX520_AL.mdlx\-0.DDS
+- name: remastered\obj\M_EX530.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX530.mdlx\-0.DDS
+- name: remastered\obj\M_EX540.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX540.mdlx\-0.DDS
+- name: remastered\obj\M_EX540.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX540.mdlx\-1.DDS
+- name: remastered\obj\M_EX540.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX540.mdlx\-2.DDS
+- name: remastered\obj\M_EX540.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX540.mdlx\-3.DDS
+- name: remastered\obj\M_EX560.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX560.mdlx\-0.DDS
+- name: remastered\obj\M_EX560.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX560.mdlx\-1.DDS
+- name: remastered\obj\M_EX560.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX560.mdlx\-2.DDS
+- name: remastered\obj\M_EX560.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX560.mdlx\-3.DDS
+- name: remastered\obj\M_EX570.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX570.mdlx\-0.DDS
+- name: remastered\obj\M_EX570.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX570.mdlx\-1.DDS
+- name: remastered\obj\M_EX570.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX570.mdlx\-2.DDS
+- name: remastered\obj\M_EX590.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX590.mdlx\-0.DDS
+- name: remastered\obj\M_EX590.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX590.mdlx\-1.DDS
+- name: remastered\obj\M_EX590.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX590.mdlx\-2.DDS
+- name: remastered\obj\M_EX590.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX590.mdlx\-3.DDS
+- name: remastered\obj\M_EX620.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-0.DDS
+- name: remastered\obj\M_EX620.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-1.DDS
+- name: remastered\obj\M_EX620.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-2.DDS
+- name: remastered\obj\M_EX620.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-3.DDS
+- name: remastered\obj\M_EX620.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-4.DDS
+- name: remastered\obj\M_EX620.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620.mdlx\-5.DDS
+- name: remastered\obj\M_EX620_AL.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-0.dds
+- name: remastered\obj\M_EX620_AL.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-1.dds
+- name: remastered\obj\M_EX620_AL.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-2.dds
+- name: remastered\obj\M_EX620_AL.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-3.dds
+- name: remastered\obj\M_EX620_AL.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-4.dds
+- name: remastered\obj\M_EX620_AL.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX620_AL.mdlx\-5.dds
+- name: remastered\obj\M_EX630.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX630.mdlx\-0.DDS
+- name: remastered\obj\M_EX630.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX630.mdlx\-2.DDS
+- name: remastered\obj\M_EX630.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX630.mdlx\-3.DDS
+- name: remastered\obj\M_EX650.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX650.mdlx\-0.DDS
+- name: remastered\obj\M_EX650.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX650.mdlx\-1.DDS
+- name: remastered\obj\M_EX670.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-0.DDS
+- name: remastered\obj\M_EX670.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-1.DDS
+- name: remastered\obj\M_EX670.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-2.DDS
+- name: remastered\obj\M_EX670.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-3.DDS
+- name: remastered\obj\M_EX670.mdlx\-4.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-4.DDS
+- name: remastered\obj\M_EX670.mdlx\-5.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-5.DDS
+- name: remastered\obj\M_EX670.mdlx\-6.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX670.mdlx\-6.DDS
+- name: remastered\obj\M_EX700.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-0.DDS
+- name: remastered\obj\M_EX700.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-1.DDS
+- name: remastered\obj\M_EX700.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-2.dds
+- name: remastered\obj\M_EX700.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX700.mdlx\-3.dds
+- name: remastered\obj\M_EX720.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX720.mdlx\-0.DDS
+- name: remastered\obj\M_EX720.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX720.mdlx\-1.DDS
+- name: remastered\obj\M_EX720.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX720.mdlx\-2.DDS
+- name: remastered\obj\M_EX730.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX730.mdlx\-0.DDS
+- name: remastered\obj\M_EX740.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX740.mdlx\-0.dds
+- name: remastered\obj\M_EX740.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX740.mdlx\-1.dds
+- name: remastered\obj\M_EX750.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750.mdlx\-0.DDS
+- name: remastered\obj\M_EX750.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750.mdlx\-1.DDS
+- name: remastered\obj\M_EX750.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750.mdlx\-2.DDS
+- name: remastered\obj\M_EX750_NM.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750_NM.mdlx\-0.DDS
+- name: remastered\obj\M_EX750_NM.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750_NM.mdlx\-1.DDS
+- name: remastered\obj\M_EX750_NM.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX750_NM.mdlx\-2.DDS
+- name: remastered\obj\M_EX780.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX780.mdlx\-0.DDS
+- name: remastered\obj\M_EX780.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX780.mdlx\-1.DDS
+- name: remastered\obj\M_EX780.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\M_EX780.mdlx\-2.DDS
